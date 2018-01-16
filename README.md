@@ -1,1 +1,2 @@
 # My-repository
+I, a young man, living in Beijing, who is very interested in deep learning and AI. I was majored in chemical engineering in bachelor and postgraduate degree. I have worked in petroleium chemical industry for two year. In these two year, I studied python and related knolwedge about AI by myself in spare time. I want to work in this field and make contribute to Internet technology with my best.
